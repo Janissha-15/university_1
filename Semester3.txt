@@ -1,0 +1,6 @@
+7,Mathematics 3,2,4,1
+8,Data Structures,27,4
+9,Digital Logic Design,26
+10,Discrete Mathematics,26,3
+11,Electronics,29,2
+12,Environmental Studies,29

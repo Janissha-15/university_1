@@ -55,8 +55,8 @@ The University Application is designed to facilitate the management of student d
 To run this project 
 
 ```bash
-  gcc  filename.c
-  ./a.out
+  gcc  filename.c -o filename
+  ./filename
 ```
 # Acknowledgements
 
